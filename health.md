@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Health"
-permalink: /personal
+permalink: /persona
 ---
 
 # Health and Fitness
