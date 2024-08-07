@@ -4,7 +4,7 @@ Chinmaya Singh
 #### Data enthusiast with a strong background in math, economics and programming. 
 #### Building career at the intersection finance and technology, leveraging state-of-the-art algorithms in ML and AI
 #### Exploring macroeconomic research and fixed-income markets
-###### [ [LinkedIn](https://www.linkedin.com/in/chinmaya-singh) ] . [chinmayasingh1998@gmail.com] . [ +44-7424125897 ]
+###### [ <a href="https://www.linkedin.com/in/chinmaya-singh" target="_blank">LinkedIn</a> ] . [chinmayasingh1998@gmail.com] . [ +44-7424125897 ]
 
 
 Education
@@ -41,13 +41,13 @@ Experience
 - Created a QGIS map with delineated clan-based territories from image of Somali political map, enriching the spatial database 
 
 
-**Data Science Intern, [Razor Group](https://www.razor-group.com/)** (Mar 22 - May 22, Delhi(remote) )
+**Data Science Intern, <a href="https://www.razor-group.com/" target="_blank">Razor Group</a>** (Mar 22 - May 22, Delhi(remote) )
 
 - Automated workflow on Amazon and Walmart Seller Central websites using Python web automation saving ∼ 200 hours per month
 - Set up data pipelines from scratch and streamlined existing ones on Amazon Web Services (AWS) and Apache Airflow
 - Ran a pilot web marketing campaign on Amazon using AI generated Ad copies to increase revenue generation
 
-**Data Science Intern, [Gartner Inc](https://www.gartner.com/en)** (May 19 - July 19, Delhi)
+**Data Science Intern, <a href="https://www.gartner.com/en" target="_blank">Gartner Inc</a>** (May 19 - July 19, Delhi)
 
 - Built a text-based recommendation system using LDA Topic Modelling to increase user engagement on Peer Connect platform
 - Trained Word2Vec model on Gartner Text Corpus (38k articles) for gaining insights about trending topics to target user needs
