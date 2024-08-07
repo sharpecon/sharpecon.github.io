@@ -82,7 +82,7 @@ plt.show()
 
 
     
-![png](output_4_0.png)
+![png](./images/output_4_0.png)
     
 
 
@@ -108,7 +108,7 @@ plt.show()
 
 
     
-![png](output_5_0.png)
+![png](./images/output_5_0.png)
     
 
 
@@ -196,7 +196,7 @@ plt.show()
 
 
     
-![png](output_8_0.png)
+![png](./images/output_8_0.png)
     
 
 
@@ -242,7 +242,7 @@ plt.show()
 
 
     
-![png](output_11_0.png)
+![png](./images/output_11_0.png)
     
 
 
@@ -360,7 +360,7 @@ plt.show()
 
 
     
-![png](output_15_0.png)
+![png](./images/output_15_0.png)
     
 
 
@@ -385,7 +385,7 @@ plt.show()
 
 
     
-![png](output_16_0.png)
+![png](./images/output_16_0.png)
     
 
 
