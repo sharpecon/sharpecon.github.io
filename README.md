@@ -15,7 +15,7 @@ forward, I wish to build my career at the intersection of finance and technology
 state-of-the-art algorithms in ML and AI.
 
 #### Data enthusiast with a strong background in math, science and programming. 
-###### [ [LinkedIn](www.linkedin.com/in/chinmaya-singh) ] . [chinmayasingh1998@gmail.com] . [ +44-7424125897 ]
+###### [ [LinkedIn](https://www.linkedin.com/in/chinmaya-singh) ] . [chinmayasingh1998@gmail.com] . [ +44-7424125897 ]
 
 
 Education
