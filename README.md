@@ -38,7 +38,8 @@ Experience
 
 - Analysed satellite images using the CCD algorithm in Python to evaluate the reconstruction efforts in Lebanon post-August 2020 blast, demonstrating that 80% of the infrastructure was restored within one year
 - Developed a Python pipeline for translating and summarizing research papers, resulting in significant time savings for researchers
-- Created a QGIS map with delineated clan-based territories from image of Somali political map, enriching the spatial database
+- Created a QGIS map with delineated clan-based territories from image of Somali political map, enriching the spatial database <a href="https://www.gist-research.com/" target="_blank">GIST Research</a>
+
 
 **Data Science Intern, [Razor Group](https://www.razor-group.com/)** (Mar 22 - May 22, Delhi(remote) )
 
