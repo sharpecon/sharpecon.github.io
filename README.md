@@ -8,6 +8,7 @@ Chinmaya Singh
 
 
 [Demo link to SAR](./SAR.md)
+
 Education
 ---------
 **MSc in Economics, London School of Economics** (2022-2024)
