@@ -7,6 +7,7 @@ Chinmaya Singh
 ###### [ <a href="https://www.linkedin.com/in/chinmaya-singh" target="_blank">LinkedIn</a> ] . [chinmayasingh1998@gmail.com] . [ +44-7424125897 ]
 
 
+[Demo link to SAR](./SAR.md)
 Education
 ---------
 **MSc in Economics, London School of Economics** (2022-2024)
