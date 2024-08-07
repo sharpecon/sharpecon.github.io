@@ -34,11 +34,11 @@ Experience
 
 - Prepared a time-series dataset on researchers’ education and experience characteristics using resumes and LinkedIn profiles for analysing the effects of characteristics on project’s lifecycle (Eg. research grant approval, coordination with policymakers, and research utilization)
 
-**Data Analyst Intern, [GIST Research](https://www.gist-research.com/)** (Nov 22 - Feb 23, London(remote) )
+**Data Analyst Intern, <a href="https://www.gist-research.com/" target="_blank">GIST Research</a>** (Nov 22 - Feb 23, London(remote) )
 
 - Analysed satellite images using the CCD algorithm in Python to evaluate the reconstruction efforts in Lebanon post-August 2020 blast, demonstrating that 80% of the infrastructure was restored within one year
 - Developed a Python pipeline for translating and summarizing research papers, resulting in significant time savings for researchers
-- Created a QGIS map with delineated clan-based territories from image of Somali political map, enriching the spatial database <a href="https://www.gist-research.com/" target="_blank">GIST Research</a>
+- Created a QGIS map with delineated clan-based territories from image of Somali political map, enriching the spatial database 
 
 
 **Data Science Intern, [Razor Group](https://www.razor-group.com/)** (Mar 22 - May 22, Delhi(remote) )
