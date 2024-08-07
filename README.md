@@ -1,4 +1,4 @@
-Sonya Sawtelle
+Chinmaya Singh
 ======
 
 I recently graduated in Economics (master's level) from the London School of Economics. My
@@ -15,38 +15,58 @@ forward, I wish to build my career at the intersection of finance and technology
 state-of-the-art algorithms in ML and AI.
 
 #### Data enthusiast with a strong background in math, science and programming. 
-###### [ [sdsawtelle.github.io](http://sdsawtelle.github.io) ] . [chinmayasingh1998@gmail.com] . [ +44-7424125897 ]
+###### [ [LinkedIn](www.linkedin.com/in/chinmaya-singh) ] . [chinmayasingh1998@gmail.com] . [ +44-7424125897 ]
 
 
 Education
 ---------
-**MSc in Applied Physics, London School of Economics** (2022-2024)
+**MSc in Economics, London School of Economics** (2022-2024)
 
-- Research on transport in metal nanostructures. 
-- Coursework in physics, engineering, and statistics.
+- Essay on *Estimating the causal effects of monetary policy on the economy*
+- Coursework : Macroeconomics, Monetary Economics, Econometrics
 
 **BS in Electrical Engineering, Indian Institute of Technology (IIT) Delhi** (2016-2020)
 
-- Coursework - Machine Learning, Artificial Intelligence, Database Management
-
-**MOOC**
+- Coursework - Database Management, Machine Learning, Artificial Intelligence, Data Structure and Algorithms,
+Probability and Stochastic Processes
+- Thesis on *Teaching Agents to Co-operate in Multi-Agent Games*
+  
+**MOOCs**
 
 - Machine Learning (Stanford, Andrew Ng)
 - Deep Learning (Stanford, Andrew Ng)
 
 Experience
 ---------
-**Research Assistant, London School of Economics (Dept. of Economics)** (June, 2023 - present, London)
+**Research Assistant, London School of Economics (Dept. of Economics)** (June 23 - present, London)
 
-- Data analysis and simulation in Python and MATLAB, and instrument control in C++. Designed and executed experiments across four projects and managed several undegraduate students.
+- Prepared a time-series dataset on researchers’ education and experience characteristics using resumes and LinkedIn
+profiles for analysing the effects of characteristics on project’s lifecycle (Eg. research grant approval, coordination with
+policymakers, and research utilization)
 
-**MCAT Instructor, Kaplan Test Prep** (2011-2012, New Haven CT)
+**Data Analyst Intern, [GIST Research](https://www.gist-research.com/)** (Nov 22 - Feb 23, London(remote) )
 
-- Planned and delivered lectures on core content in undergraduate Physics, Chemistry and Biology to medium-sized groups of undergraduates.
+- Analysed satellite images using the CCD algorithm in Python to evaluate the reconstruction efforts in Lebanon post-August 2020 blast, demonstrating that 80% of the infrastructure was restored within one year
+- Developed a Python pipeline for translating and summarizing research papers, resulting in significant time savings for researchers
+- Created a QGIS map with delineated clan-based territories from image of Somali political map, enriching the spatial database
+
+**Data Science Intern, [Razor Group](https://www.razor-group.com/)** (Mar 22 - May 22, Delhi(remote) )
+
+- Analysed satellite images using the CCD algorithm in Python to evaluate the reconstruction efforts in Lebanon post-August 2020 blast, demonstrating that 80% of the infrastructure was restored within one year
+- Developed a Python pipeline for translating and summarizing research papers, resulting in significant time savings for researchers
+- Created a QGIS map with delineated clan-based territories from image of Somali political map, enriching the spatial database
+
+**Data Science Intern, [Gartner Inc](https://www.gartner.com/en)** (May 19 - July 19, Delhi)
+
+- Built a text-based recommendation system using LDA Topic Modelling to increase user engagement on Peer Connect platform
+- Trained Word2Vec model on Gartner Text Corpus (38k articles) for gaining insights about trending topics to target user needs
+- Discovered similarities between Job-titles using fuzzy string matching algorithms to identify users’ profile for better reach
 
 Skills
 ------
-**Programming:** Python, R, SQL, MATLAB, C++
+**Computer Languages** Python, R, SQL, C++
+**Natural Languages** English(fluent), Hindi(native)
+**Software Languages** MATLAB, STATA, Amazon AWS, LaTeX
 
 Projects
 --------
