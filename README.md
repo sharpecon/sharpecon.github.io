@@ -65,7 +65,7 @@ Skills
 
 Projects
 --------
-**[*Evening Sessions: Explorations in Data Science and Python* Blog](http://sdsawtelle.github.io/blog/output/index.html)** (2015-present)
-
-- Authored a series of articles covering a wide variety of topics and tools related to pure Python programming, data science and statistics.
-- [Demo link for course project](./Macroeconomics_Project.md)   
+**Economics** (Jan 23 - May 23)
+- Macroeconomics (distinction): Solow model based growth accounting exercise to compare the economies of Spain and Costa Rica
+    - [Code](./Macroeconomics_Project.md) [Report](./report.pdf)
+- Econometrics term paper: Implemented and formulated extensions to an empirical paper in political economy using STATA
