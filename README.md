@@ -64,10 +64,10 @@ Projects
 - Designed a model to quantify the relaxation oscillation operation mode of an oscillator
 
 **Artificial Intelligence and Machine Learning** (2018 - 2019 (coursework))
-- Game Bot: Implemented an AI Bot using mini-max search tree alongwith heurisitcs for playing the game of Cannon [Code](https://github.com/chinmaya1998/AI-A2)
-- Subsequence Alignment Problem: Implemented a local search based algorithm for finding the optimal alignment of two sequences [Code](https://github.com/chinmaya1998/AI-A1)
+- [Game Bot](https://github.com/chinmaya1998/AI-A2): Implemented an AI Bot using mini-max search tree alongwith heurisitcs for playing the game of Cannon
+- [Subsequence Alignment Problem](https://github.com/chinmaya1998/AI-A1): Implemented a local search based algorithm for finding the optimal alignment of two sequences
 - Subgraph Isomorphism: Formulated the subgraph isomorphism problem as a Satisfiability problem to find the graph mapping 
-- Bayesian Network Learning: Implemented Expectation-Maximization algorithm for learning Bayesian Network from data [Code](https://github.com/chinmaya1998/AI-A4)
+- [Bayesian Network Learning](https://github.com/chinmaya1998/AI-A4): Implemented Expectation-Maximization algorithm for learning Bayesian Network from data
 - Devanagri Digit Classification: Implemented Generic Neural Network class in Python for image classification
 - Amazon Reviews Classification: Used self-implemented Naive Bayes classifier for classifying product reviews on Amazon
 - Support Vector Machine : Implemented SVM algorithm using cvxopt library in Python
