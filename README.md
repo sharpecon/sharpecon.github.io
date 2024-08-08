@@ -7,6 +7,9 @@ Chinmaya Singh
 
 This is a [hover text][id1] example.
 
+<div title="them's hoverin' words">hover me</div>
+
+
 ##### [ <a href="https://www.linkedin.com/in/chinmaya-singh" target="_blank">LinkedIn</a> ] . [chinmayasingh1998@gmail.com] . [ +44-7424125897 ]
 
 Education
