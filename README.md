@@ -6,9 +6,6 @@ Chinmaya Singh
 #### Exploring macroeconomic research and fixed-income markets
 ###### [ <a href="https://www.linkedin.com/in/chinmaya-singh" target="_blank">LinkedIn</a> ] . [chinmayasingh1998@gmail.com] . [ +44-7424125897 ]
 
-
-[Demo link to SAR](./SAR.md)
-
 Education
 ---------
 **MSc in Economics, London School of Economics** (2022-2024)
@@ -42,7 +39,6 @@ Experience
 - Developed a Python pipeline for translating and summarizing research papers, resulting in significant time savings for researchers
 - Created a QGIS map with delineated clan-based territories from image of Somali political map, enriching the spatial database 
 
-
 **Data Science Intern, <a href="https://www.razor-group.com/" target="_blank">Razor Group</a>** (Mar 22 - May 22, Delhi(remote) )
 
 - Automated workflow on Amazon and Walmart Seller Central websites using Python web automation saving ∼ 200 hours per month
@@ -55,21 +51,13 @@ Experience
 - Trained Word2Vec model on Gartner Text Corpus (38k articles) for gaining insights about trending topics to target user needs
 - Discovered similarities between Job-titles using fuzzy string matching algorithms to identify users’ profile for better reach
 
-Skills
-------
-**Computer Languages** Python, R, SQL, C++
-
-**Natural Languages** English(fluent), Hindi(native)
-
-**Software Languages** MATLAB, STATA, Amazon AWS, LaTeX
-
 Projects
 --------
 **Economics** (Jan 23 - May 23)
 - Macroeconomics (distinction): Solow model based growth accounting exercise to compare the economies of Spain and Costa Rica
-    - [Code](./Macroeconomics_Project.md) | [Report](./documents/report.pdf)
+    - [Code](./Macroeconomics_Project.md) &#124; [Report](./documents/report.pdf)
 - Econometrics term paper: Implemented and formulated extensions to an empirical paper in political economy using STATA
-    - [Code](./code/code.pdf) | [Report](./documents/55027_report.pdf)
+    - [Code](./code/code.pdf) &#124; [Report](./documents/55027_report.pdf)
 
 **Mathematical modelling (Biomolecular Oscillator)** (Jan 20 - June 20)
 - Developed a MATLAB based simulator to computationally solve the repressilator equations
@@ -83,3 +71,15 @@ Projects
 - Devanagri Digit Classification: Implemented Generic Neural Network class in Python for image classification
 - Amazon Reviews Classification: Used self-implemented Naive Bayes classifier for classifying product reviews on Amazon
 - Support Vector Machine : Implemented SVM algorithm using cvxopt library in Python
+
+**Miscelleaneous** 
+- Numerical programming to solve and simulate *Aiyagari type model* (Apr 2024) [Code](./aiyagri/Code_FiniteHorizon_Final.md) &#124; [Report](./aiyagri/Report.pdf)
+- 
+
+Skills
+------
+**Computer Languages** Python, R, SQL, C++
+
+**Natural Languages** English(fluent), Hindi(native)
+
+**Software Languages** MATLAB, STATA, Amazon AWS, LaTeX
