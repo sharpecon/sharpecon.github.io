@@ -30,7 +30,7 @@ Probability and Stochastic Processes
 Experience
 ---------
 **Research Assistant, London School of Economics (Dept. of Economics)** (June 23 - present, London)
-
+- Building a dataset of flood events, detecting landfills and landfill fire incidents in the city of Accra using satellite images for studying and improving waste management practices
 - Prepared a time-series dataset on researchers’ education and experience characteristics using resumes and LinkedIn profiles for analysing the effects of characteristics on project’s lifecycle (Eg. research grant approval, coordination with policymakers, and research utilization)
 
 **Data Analyst Intern, <a href="https://www.gist-research.com/" target="_blank">GIST Research</a>** (Nov 22 - Feb 23, London(remote) )
