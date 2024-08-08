@@ -67,5 +67,5 @@ Projects
 --------
 **Economics** (Jan 23 - May 23)
 - Macroeconomics (distinction): Solow model based growth accounting exercise to compare the economies of Spain and Costa Rica
-    - [Code](./Macroeconomics_Project.md) [Report](./report.pdf)
+    - [Code](./Macroeconomics_Project.md) and [Report](./report.pdf)
 - Econometrics term paper: Implemented and formulated extensions to an empirical paper in political economy using STATA
