@@ -1,13 +1,7 @@
 Chinmaya Singh
 ======
 
-#### [I'm deeply enthusiastic about data, backed by my solid skills in math, programming, and my understanding of economics. My goal is to build a career that sits right at the heart of finance and technology, making the most of cutting-edge ML and AI algorithms to drive progress. Right now, I'm also diving into macroeconomic research and exploring the complexities of fixed-income markets. My journey is about blending these worlds together, using my skills to make a real difference in how we understand and interact with the financial landscape. It’s about turning curiosity into actionable knowledge and leveraging technology to not just predict but shape the future of finance.](## "Disclaimer: I am not a fancy writer. This text was generated with the help of Grammarly's AI assistant")
-
-[id1]: ## "your hover text"
-
-This is a [hover text][id1] example.
-
-<div title="them's hoverin' words">hover me</div>
+#### <div title="Disclaimer: I am not a fancy writer. This text was generated with the help of Grammarly's AI assistant">I'm deeply enthusiastic about data, backed by my solid skills in math, programming, and my understanding of economics. My goal is to build a career that sits right at the heart of finance and technology, making the most of cutting-edge ML and AI algorithms to drive progress. Right now, I'm also diving into macroeconomic research and exploring the complexities of fixed-income markets. My journey is about blending these worlds together, using my skills to make a real difference in how we understand and interact with the financial landscape. It’s about turning curiosity into actionable knowledge and leveraging technology to not just predict but shape the future of finance.</div>
 
 
 ##### [ <a href="https://www.linkedin.com/in/chinmaya-singh" target="_blank">LinkedIn</a> ] . [chinmayasingh1998@gmail.com] . [ +44-7424125897 ]
