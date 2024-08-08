@@ -67,5 +67,19 @@ Projects
 --------
 **Economics** (Jan 23 - May 23)
 - Macroeconomics (distinction): Solow model based growth accounting exercise to compare the economies of Spain and Costa Rica
-    - [Code](./Macroeconomics_Project.md) and [Report](./report.pdf)
+    - [Code](./Macroeconomics_Project.md) | [Report](./documents/report.pdf)
 - Econometrics term paper: Implemented and formulated extensions to an empirical paper in political economy using STATA
+    - [Code](./ec2c1_report.do) | [Report](./documents/55027_report.pdf)
+
+**Mathematical modelling (Biomolecular Oscillator)** (Jan 20 - June 20)
+- Developed a MATLAB based simulator to computationally solve the repressilator equations
+- Designed a model to quantify the relaxation oscillation operation mode of an oscillator
+
+**Artificial Intelligence and Machine Learning** (2018 - 2019 (coursework))
+- Game Bot: Implemented an AI Bot using mini-max search tree alongwith heurisitcs for playing the game of Cannon
+- Subsequence Alignment Problem: Implemented a local search based algorithm for finding the optimal alignment of two sequences
+- Subgraph Isomorphism: Formulated the subgraph isomorphism problem as a Satisfiability problem to find the graph mapping
+- Bayesian Network Learning: Implemented Expectation-Maximization algorithm for learning Bayesian Network from data
+- Devanagri Digit Classification: Implemented Generic Neural Network class in Python for image classification
+- Amazon Reviews Classification: Used self-implemented Naive Bayes classifier for classifying product reviews on Amazon
+- Support Vector Machine : Implemented SVM algorithm using cvxopt library in Python
