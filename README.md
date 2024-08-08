@@ -57,7 +57,7 @@ Projects
 - Macroeconomics (distinction): Solow model based growth accounting exercise to compare the economies of Spain and Costa Rica
     - [Code](./macro_project/Macroeconomics_Project.md) &#124; [Report](./macro_project/report.pdf)
 - Econometrics term paper: Implemented and formulated extensions to an empirical paper in political economy using STATA
-    - [Code](./code/code.pdf) &#124; [Report](./documents/55027_report.pdf)
+    - [Code](./metrics_project/code.pdf) &#124; [Report](./metrics_project/55027_report.pdf)
 
 **Mathematical modelling (Biomolecular Oscillator)** (Jan 20 - June 20)
 - Developed a MATLAB based simulator to computationally solve the repressilator equations
