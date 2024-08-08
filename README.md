@@ -22,11 +22,6 @@ Probability and Stochastic Processes
     - Designed a continuous space environment and reward scheme for agent learning in a pursuit evasion game
     - Experimented with different Policy Gradient based reinforcement learning algorithms (eg. DDPG, TRPO, PPO and MADDPG)
   
-**MOOCs**
-
-- Machine Learning (Stanford, Andrew Ng)
-- Deep Learning (Stanford, Andrew Ng)
-
 Experience
 ---------
 **Research Assistant, London School of Economics (Dept. of Economics)** (June 23 - present, London)
