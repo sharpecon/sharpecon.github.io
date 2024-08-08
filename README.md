@@ -60,8 +60,7 @@ Projects
     - [Code](./metrics_project/code.pdf) &#124; [Report](./metrics_project/55027_report.pdf)
 
 **Mathematical modelling (Biomolecular Oscillator)** (Jan 20 - June 20)
-- Developed a MATLAB based simulator to computationally solve the repressilator equations
-- Designed a model to quantify the relaxation oscillation operation mode of an oscillator
+- Developed a MATLAB based simulator to computationally solve the repressilator equations and quantify the relaxation oscillation operation mode of an oscillator
 
 **Artificial Intelligence and Machine Learning** (2018 - 2019 (coursework))
 - [Game Bot](https://github.com/chinmaya1998/AI-A2): Implemented an AI Bot using mini-max search tree alongwith heurisitcs for playing the game of Cannon
