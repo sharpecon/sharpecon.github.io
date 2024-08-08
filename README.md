@@ -1,10 +1,8 @@
 Chinmaya Singh
 ======
 
-#### Data enthusiast with a strong background in math, economics and programming. 
-#### Building career at the intersection finance and technology, leveraging state-of-the-art algorithms in ML and AI
-#### Exploring macroeconomic research and fixed-income markets
-###### [ <a href="https://www.linkedin.com/in/chinmaya-singh" target="_blank">LinkedIn</a> ] . [chinmayasingh1998@gmail.com] . [ +44-7424125897 ]
+#### Data enthusiast with a strong background in math, programming and economics. Building career at the intersection of finance and technology, leveraging state-of-the-art algorithms in ML and AI. Currently, exploring topics in macroeconomic research and fixed-income markets
+##### [ <a href="https://www.linkedin.com/in/chinmaya-singh" target="_blank">LinkedIn</a> ] . [chinmayasingh1998@gmail.com] . [ +44-7424125897 ]
 
 Education
 ---------
