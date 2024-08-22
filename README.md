@@ -68,7 +68,7 @@ Projects
 
 **Miscelleaneous** 
 - Numerical programming to solve and simulate *Aiyagari type model* (Apr 2024) [Code](./aiyagari/Code_FiniteHorizon_Final.md) &#124; [Report](./aiyagari/Report.pdf)
-- Empirical exercise on EU Cap and Trade system data and review of academic papers in Finance (Apr 2024) [Code](./capntrade/Empirical_Exercise.md) &#124; [Report](./capntrade/guyu.pdf)
+- Empirical exercise on EU Cap and Trade system data and review of academic papers in Finance (Apr 2024) [Code](./capntrade/Empirical_Exercise.md) &#124; [Report](./capntrade/Assignment_Report-redacted.pdf)
 
 Skills
 ------
