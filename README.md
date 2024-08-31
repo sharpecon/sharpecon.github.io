@@ -66,7 +66,7 @@ Projects
 - Amazon Reviews Classification: Used self-implemented Naive Bayes classifier for classifying product reviews on Amazon
 - Support Vector Machine : Implemented SVM algorithm using cvxopt library in Python
 
-**Miscelleaneous** 
+**Miscellaneous** 
 - Numerical programming to solve and simulate *Aiyagari type model* (Apr 2024) [Code](./aiyagari/Code_FiniteHorizon_Final.md) &#124; [Report](./aiyagari/Report.pdf)
 - Empirical exercise on EU Cap and Trade system data and review of academic papers in Finance (Apr 2024) [Code](./capntrade/Empirical_Exercise.md) &#124; [Report](./capntrade/Assignment_Report-redacted.pdf)
 
