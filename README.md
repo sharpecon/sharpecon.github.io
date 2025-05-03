@@ -26,7 +26,7 @@ Experience
 ---------
 
 
-**Capital Analyst, Risk Management, (AXA XL)** (Jan/25 - present, Delhi NCR)
+**Capital Analyst, Risk Management, <a href="https://axaxl.com/" target="_blank">AXA XL</a>** (Jan/25 - present, Delhi NCR)
 - Assisting the Capital Modelling team in securing approval for the Internal Capital Model from a regulatory authority
 - Using ReMetrica software for model developement and validation and R language for data processing
 - Using MS Excel for sharing financial data and insights with non-technical stakeholders
