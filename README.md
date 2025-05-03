@@ -24,6 +24,14 @@ Probability and Stochastic Processes
   
 Experience
 ---------
+
+
+** Capital Analyst, Risk Management, (AXA XL)** (Jan/25 - present, Delhi NCR)
+- Assisting the Capital Modelling team in securing approval for the Internal Capital Model from a regulatory authority
+- Using ReMetrica software for model developement and validation and R language for data processing
+- Using MS Excel for sharing financial data and insights with non-technical stakeholders
+
+
 **Research Assistant, London School of Economics (Dept. of Economics)** (June 23 - present, London)
 - Building a dataset of flood events and landfill fire incidents in the city of Accra using SAR satellite images using Google Earth Engine and Hydrafloods library to find interlinkage between waste management practices and urban floods
 - Prepared a time-series dataset on researchers’ education and experience characteristics using resumes and LinkedIn profiles for analysing the effects of characteristics on project’s lifecycle (Eg. research grant approval, coordination with policymakers, and research utilization)
